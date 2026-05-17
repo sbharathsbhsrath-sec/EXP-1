@@ -59,13 +59,15 @@ Calculation:
 
 a.   KVL:
 
- <img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/1880bcf9-8b79-42f3-a826-644c055caba5" />
+ <img width="1528" height="1599" alt="image" src="https://github.com/user-attachments/assets/6a0b3741-5d2b-4b51-91ab-69071c202093" />
+
 
 
 
 b.  KCL:
 
-<img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/4f99766e-892b-42d2-99f1-cbc523fc5f57" />
+<img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a081ae9-4a7c-4ba3-a6da-0c3a6b47005a" />
+
 
 
 
@@ -73,12 +75,14 @@ Tabulation:
 
 a.   KVL:
  
-<img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/ee04b86d-c5ee-4daf-b222-b8d0b790cc07" />
+<img width="1577" height="527" alt="image" src="https://github.com/user-attachments/assets/1becf851-1800-4fee-92bb-058bc45bcae4" />
+
 
 
 b.  KCL:
+<img width="1598" height="574" alt="image" src="https://github.com/user-attachments/assets/b205527c-2131-49dd-8124-8952a256167b" />
 
-<img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/44b844d5-c505-478e-b1f7-0223cd7900dd" />
+
 
 
 
