@@ -47,6 +47,9 @@ a.   KVL:
 
  <img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/480e536a-f147-4226-8d45-d81a8d65b634" />
 
+ <img width="1158" height="645" alt="Screenshot 2026-04-29 093629" src="https://github.com/user-attachments/assets/798f2e75-c95d-4e1b-aa7a-7b12e114edaa" />
+
+
 
 
 b.  KCL:
