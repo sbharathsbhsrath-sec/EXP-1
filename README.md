@@ -77,7 +77,8 @@ a.   KVL:
 
 b.  KCL:
 
-<img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/5e80bc0e-8300-4bd3-a922-e6d85b8ef142" />
+<img width="1600" height="1215" alt="WhatsApp Image 2026-05-17 at 3 34 54 PM" src="https://github.com/user-attachments/assets/44b844d5-c505-478e-b1f7-0223cd7900dd" />
+
 
 
 RESULT:
